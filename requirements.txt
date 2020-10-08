@@ -1,0 +1,4 @@
+speedtest-cli
+pyexcel
+pyexcel-xlsx
+bitmath
